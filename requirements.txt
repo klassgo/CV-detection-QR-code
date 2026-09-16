@@ -1,0 +1,5 @@
+ultralytics==8.4.153
+streamlit==1.64.0
+zxing-cpp==3.1.1
+Pillow>=10
+numpy>=1.26
