@@ -54,6 +54,9 @@ YOLO выбрана благодаря:
 
 Ссылка, если хостится - https://cv-detection-qr-code-zxc.streamlit.app
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3e33f7b7-083c-4a60-a18d-a40f20f5d195" />
+
+
 Пользователь загружает изображение, после чего приложение:
   1. запускает YOLO26m;
   2. находит QR-коды;
